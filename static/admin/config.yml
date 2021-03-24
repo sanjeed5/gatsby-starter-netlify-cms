@@ -11,6 +11,14 @@ backend:
 media_folder: static/img
 public_folder: /img
 
+publish_mode: editorial_workflow
+
+media_library:
+  name: cloudinary
+  config: 
+    cloud_name: dnur0rzv0
+    api_key: 424256859698349
+
 collections:
   - name: "blog"
     label: "Blog"
