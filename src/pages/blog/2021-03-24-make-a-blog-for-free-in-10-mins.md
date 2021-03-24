@@ -6,9 +6,9 @@ description: "Yep, it'll be up and running in 1-click. "
 featuredpost: true
 featuredimage: /img/glenn-carstens-peters-npxxwgq33zq-unsplash.jpg
 tags:
-  - blog
+  - "#blog"
 ---
-**Step 1:** Go to<https://www.netlifycms.org/docs/start-with-a-template/>
+**Step 1:** Go to <https://www.netlifycms.org/docs/start-with-a-template/>
 
 **Step 2:** Click on "Deploy to Netlify" below Gatsby Site Starter
 
